@@ -73,11 +73,13 @@
     },
     "jade-lexer": {
       "version": "0.0.8",
-      "from": "jade-lexer@0.0.8",
+      "from": "jade-lexer@git+https://github.com/benedfit/jade-lexer#fbf901309ec69e099cfe5660897ce0be32cb3309",
+      "resolved": "git+https://github.com/benedfit/jade-lexer#fbf901309ec69e099cfe5660897ce0be32cb3309",
       "dependencies": {
         "character-parser": {
           "version": "1.2.2",
-          "from": "character-parser@1.2.2"
+          "from": "character-parser@git+https://github.com/forbeslindesay/character-parser#3900394ba59262047e3fe1890651a5ae39a5a245",
+          "resolved": "git+https://github.com/forbeslindesay/character-parser#3900394ba59262047e3fe1890651a5ae39a5a245"
         }
       }
     },
