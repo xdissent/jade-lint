@@ -73,8 +73,8 @@
     },
     "jade-lexer": {
       "version": "0.0.8",
-      "from": "jade-lexer@git+https://github.com/benedfit/jade-lexer#fbf901309ec69e099cfe5660897ce0be32cb3309",
-      "resolved": "git+https://github.com/benedfit/jade-lexer#fbf901309ec69e099cfe5660897ce0be32cb3309",
+      "from": "jade-lexer@git+https://github.com/xdissent/jade-lexer#0dd6cac9ca9d07e411bbf0421eeee1bf11545de5",
+      "resolved": "git+https://github.com/xdissent/jade-lexer#0dd6cac9ca9d07e411bbf0421eeee1bf11545de5",
       "dependencies": {
         "character-parser": {
           "version": "1.2.2",
